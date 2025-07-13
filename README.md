@@ -67,7 +67,9 @@
     </Tbody>
     <tfoot>
       <tr>
-        <td>for grade ass</td>
+       <td>highest</td>
+        <td>lowest</td>
+        <td>from 80</td>
       </tr>
     </tfoot>
          
