@@ -51,6 +51,7 @@
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
       <TAble>
+ <caption>Students Marks</caption>
     <thead>
         <TR>
           <TD>FRIST</TD>
