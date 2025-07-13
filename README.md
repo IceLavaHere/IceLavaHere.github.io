@@ -19,7 +19,7 @@
          <li> <a href="https://google.com" target="_blank" title="go to hell">google</a></li>
         <li>  <a href="#osama" title="go to osama">hitler paragraph</a> </li>
         <li> 
- <a> href="mailto:mhmdshyr102@gmail.com"mail me> </a> </li>
+ <a> href="mailto:mhmdshyr102@gmail.com"mail me </a> </li>
         this is the <b> project </b> of my life. <strong>tryimg to be person</strong>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
