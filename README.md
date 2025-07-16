@@ -18,8 +18,6 @@
     <h6>lava on top alwayes</h6>
         <li> <a href="https://google.com" target="_blank" title="go to hell">google</a> </li>
         <li>  <a href="#osama" title="go to osama">hitler paragraph</a> </li>
-        <li> fuck marco </li>
-       
         <li> 
         <a href="mail to:mhmdshyr102@gmail.com"> mail me there </a> </li>
         this is the <b> project </b> of my life. <strong>tryimg to be person</strong>
