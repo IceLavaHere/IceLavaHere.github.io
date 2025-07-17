@@ -46,6 +46,12 @@
      <p id="osama">HE one of the greatest polotics mind in the history,Even if he did a war crimes or anything else we must learn from his plans or his way to think,We must alwayes look to important sides <strong>not sure</strong>but alot of books says his rolemodle<strong>"Khalad Ebn El Walaed"</strong> .</p> 
      <img src="Screenshot 2025-04-18 031546.png" alt="">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Adolf_Hitler_cropped_restored_3x4.jpg/250px-Adolf_Hitler_cropped_restored_3x4.jpg" alt="">
+      <audio>
+      <source src="Downloads/1.mp3" type="audio/mg"
+      <source src="Downloads/1.wav" type="audio/mg"
+      <source src="Downloads/1.ogg" type="audio/mg"
+      Your browser does not support the audio element.
+     </audio>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, debitis. Saepe, iste aliquam cumque in provident eligendi doloremque mollitia, consequuntur, excepturi recusandae dolores? Quos vitae magni possimus, laboriosam officia cum.</p> 
