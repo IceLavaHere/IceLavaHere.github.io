@@ -5,7 +5,7 @@
   <input type ="text" required> 
         <!-- bla bla bal -->
         <meta charset="UTF-8"/>
-        <title>Lava.Project</title>
+        <title> Lava.Project </title>
         <meta name="description" content="this is padge to learn">
          <!--this is comment-->
 </head>
