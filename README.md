@@ -4,7 +4,7 @@
  <head>
         <!-- bla bla bal -->
          <meta charset="UTF-8"/>
-        <title>Lava.Project</title>
+       <title>Ice LAVA here</title>
         <meta name="description" content="this is padge to learn">
          <!--this is comment-->
 </head>
