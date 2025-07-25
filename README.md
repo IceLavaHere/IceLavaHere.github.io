@@ -2,7 +2,6 @@
  <!DOCTYPE html>
 <html>
  <head>
-  <input type ="text" required> 
         <!-- bla bla bal -->
          <meta charset="UTF-8"/>
         <title>Lava.Project</title>
@@ -10,6 +9,7 @@
          <!--this is comment-->
 </head>
         <body>
+ <input type ="text" required> 
             <!--h1-h6-->
     <h1>here for testing</h1>
     <h2>Islamic Wep Soon</h2>
