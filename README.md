@@ -9,7 +9,7 @@
          <!--this is comment-->
 </head>
         <body>
- <input type ="text" required> 
+              <input type ="text" required> 
             <!--h1-h6-->
     <h1>here for testing</h1>
     <h2>Islamic Wep Soon</h2>
