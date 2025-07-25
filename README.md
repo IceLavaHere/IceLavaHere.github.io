@@ -1,5 +1,5 @@
 # IceLavaHere.github.io
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
  <head>
         <!-- bla bla bal -->
