@@ -3,7 +3,7 @@
 <html>
  <head>
    <meta charset="UTF-8">
-    <title>IceLavaHere.github.io</title>
+  
     <meta name="description" content="IceLavaHere.github.io - A personal project to learn HTML, CSS, and JavaScript.">
     <link rel="stylesheet" href="style.css">
    
