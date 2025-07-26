@@ -2,11 +2,10 @@
 <!DOCTYPE html>
 <html>
  <head>
-        <!-- bla bla bal -->
+
          <meta charset="UTF-8"/>
        <title>Ice LAVA here</title>
         <meta name="description" content="this is padge to learn">
-         <!--this is comment-->
 </head>
         <body>
               <input type ="text" required> 
