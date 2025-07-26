@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-   <meta charset="UTF-8">
-  
+    <meta charset="UTF-8">
     <meta name="description" content="IceLavaHere.github.io - A personal project to learn HTML, CSS, and JavaScript.">
     <link rel="stylesheet" href="style.css">
    
